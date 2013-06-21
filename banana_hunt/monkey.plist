@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>monkey_push_right_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 2}, {108, 156}}</string>
+			<key>offset</key>
+			<string>{3, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{19, 7}, {108, 156}}</string>
+			<key>sourceSize</key>
+			<string>{140, 168}</string>
+		</dict>
+		<key>monkey_push_right_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{112, 2}, {110, 156}}</string>
+			<key>offset</key>
+			<string>{3, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{18, 7}, {110, 156}}</string>
+			<key>sourceSize</key>
+			<string>{140, 168}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+	</dict>
+</dict>
+</plist>
